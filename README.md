@@ -11,7 +11,8 @@ ONLY download the X.X.X_update.zip and extract.
 Import all the files(.shortcut) to shortcut app and replace the older one.  
 # Notice
 This project is still developing. This project is Not finished yet.  
-(BUUUUUUUUGGS)
+(BUUUUUUUUGGS)  
+  
 This project is developing on an iPhone which runs iOS 16.7.2.  
 Please check your system version if your version are lower than iOS 16.7.2.    
 Many operates may not work on older system.  
