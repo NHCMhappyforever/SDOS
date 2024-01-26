@@ -4,10 +4,10 @@ Shortcuts Disk Operating System
 
 A DOS base on iOS/iPadOS with shortcuts app and Files app
 # Features
-* Fully executable DOS commands
-* Easy to use
-* Apple’s shortcuts is fully open source so that everyone can edit
-* Very MSDOS
+* Text editer
+* Batch renaming
+* DOS interface
+* Fast update
 # Install
 ### Install
 * Download X.X.X\_full.zip from release.
