@@ -5,6 +5,9 @@ Shortcuts Disk Operating System
 A DOS base on iOS/iPadOS with shortcuts app and Files app  
 ![Preview](/pre.png)  
 > The "dir" command
+# Required
+* iOS/iPadOS 16.7.2 or higher
+* Installed "Shortcuts" and "Files" app
 # Install
 ### Install
 * Download X.X.X\_full.zip from release.
