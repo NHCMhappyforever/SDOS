@@ -3,11 +3,6 @@
 Shortcuts Disk Operating System  
 
 A DOS base on iOS/iPadOS with shortcuts app and Files app
-# Features
-* Text editer
-* Batch renaming
-* DOS interface
-* Fast update
 # Install
 ### Install
 * Download X.X.X\_full.zip from release.
