@@ -23,7 +23,6 @@ A DOS base on iOS/iPadOS with shortcuts app and Files app
 * iOS/iPadOS 16.7.2 or higher
 * Installed "Shortcuts" and "Files" app
 # Install
-### Install
 * Download X.X.X\_full.zip from release.
 * Extract.
 * Click every file that you get in Files app to import them to Shortcuts app.
