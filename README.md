@@ -10,13 +10,13 @@ A DOS base on iOS/iPadOS with shortcuts app and Files app
 * The "edit" command  
 ![edit](preview2.gif)
 > A text file was successfully created
-* The "ren" command
+* The "ren" command  
 ![ren](preview3.gif)
 > Succesfully renamed two directories to name "new"
-* The "dir" command
+* The "dir" command  
 ![dir](preview4.gif)
 > Listed directory successfully
-* The "type" command
+* The "type" command  
 ![type](preview5.gif)
 > Typed the content of helloworld.txt successfully
 # Required
