@@ -1,0 +1,19 @@
+ChangeLog
+[1.3.0]
+[+] Add help document "file" for show the format of path
+[+] Correct the error of the batch command is directly shown in the output of "execute"
+[+] Improve help documents
+[+] New program "doskey" for managing doskey macros
+
+[1.2.3]
+[+] Add a start up icon
+[+] Fix a bug that "cd" is missing in release file
+[-] "interface" will no longer run "input" and "output" so it will never execute commands and show results
+[-] No "/ni" "/no" parameters in "interface"
+
+[+]
+[1.2.2]
+[+] Add /c parameter to "cal"
+// This parameter allows the user to enter the formula directly in the command and get the output without starting the calculator prompt
+[+] Add /f parameter to "arch"
+// This parameter allows the user to extract files into a sub directory of the same name in its directory
