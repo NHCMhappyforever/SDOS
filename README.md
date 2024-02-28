@@ -20,6 +20,8 @@ A DOS base on iOS/iPadOS with shortcuts app and Files app
 ![type](preview5.gif)
 > Typed the content of helloworld.txt successfully
 # Required
+You may need a iPhone with high performance. The standard performance is iPhone 12 or higher gen.  
+I am using a iPhone X for developing so I can really feel the speed is really low when running SDOS.  
 * iOS/iPadOS 16.7.2 or higher
 * Installed "Shortcuts" and "Files" app
 # Install
