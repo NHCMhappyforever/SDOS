@@ -20,7 +20,7 @@ A DOS base on iOS/iPadOS with shortcuts app and Files app
 ![type](preview5.gif)
 > Typed the content of helloworld.txt successfully
 # Required
-* iOS/iPadOS 16.7.2 or higher
+* iOS/iPadOS 16.7 or higher
 * Installed Shortcuts app and Files app  
 > SDOS may required the shortcuts of Files app
 
